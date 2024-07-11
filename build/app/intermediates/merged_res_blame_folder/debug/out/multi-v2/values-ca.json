@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.blockle.app-mergeDebugResources-9:/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

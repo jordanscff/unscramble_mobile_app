@@ -1,0 +1,14 @@
+com.example.blockle.app-jetified-window-java-1.0.0-beta04-0 /Users/jordanball/.gradle/caches/transforms-3/394b161e36a7e93b23ce7453c62ea392/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.blockle.app-jetified-window-1.0.0-beta04-1 /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/res
+com.example.blockle.app-jetified-annotation-experimental-1.1.0-2 /Users/jordanball/.gradle/caches/transforms-3/c0bdeb6d9f49c8f38150ed7e96000636/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.blockle.app-core-1.6.0-3 /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/res
+com.example.blockle.app-debug-4 /Users/jordanball/Documents/blockle/android/app/src/debug/res
+com.example.blockle.app-main-5 /Users/jordanball/Documents/blockle/android/app/src/main/res
+com.example.blockle.app-pngs-6 /Users/jordanball/Documents/blockle/build/app/generated/res/pngs/debug
+com.example.blockle.app-resValues-7 /Users/jordanball/Documents/blockle/build/app/generated/res/resValues/debug
+com.example.blockle.app-rs-8 /Users/jordanball/Documents/blockle/build/app/generated/res/rs/debug
+com.example.blockle.app-mergeDebugResources-9 /Users/jordanball/Documents/blockle/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.blockle.app-mergeDebugResources-10 /Users/jordanball/Documents/blockle/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.blockle.app-merged_res-11 /Users/jordanball/Documents/blockle/build/app/intermediates/merged_res/debug
+com.example.blockle.app-packaged_res-12 /Users/jordanball/Documents/blockle/build/path_provider_android/intermediates/packaged_res/debug
+com.example.blockle.app-packaged_res-13 /Users/jordanball/Documents/blockle/build/shared_preferences_android/intermediates/packaged_res/debug

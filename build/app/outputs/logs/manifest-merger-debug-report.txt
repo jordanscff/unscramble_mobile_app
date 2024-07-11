@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jordanball/.gradle/caches/transforms-3/1f633d812454b026cb70a473c2bd67eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jordanball/.gradle/caches/transforms-3/1f633d812454b026cb70a473c2bd67eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:path_provider_android] /Users/jordanball/Documents/blockle/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] /Users/jordanball/Documents/blockle/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/394b161e36a7e93b23ce7453c62ea392/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/dfd86a8fe3be2aa2d1d7a6438db0b745/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/4547617292ad45950b3b15f8265e4da7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/735e1f208258c503c4e844f4f9f7a8de/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/dbd7614aaed83ddbc1cf84227eb130b0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/490e313032db52bd8fdacc203086f656/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jordanball/.gradle/caches/transforms-3/77ebd42d74c7f80c95c4197b33204d6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/5d1d9f4ecd3592804be4431cbfcf1b1a/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/5f18bfa99167360e5a41d7aebbf6d4a8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/986a53a4a412c03c6cdc8478367f2908/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/9779a78400ad639a4a63e7e1f4cc7244/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/6844f9f771a130ab7f2a4cc70beb3f4e/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jordanball/.gradle/caches/transforms-3/1f633d812454b026cb70a473c2bd67eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jordanball/.gradle/caches/transforms-3/f085f531436f938f6f80eb8d13402f39/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/c0bdeb6d9f49c8f38150ed7e96000636/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+MERGED from [:path_provider_android] /Users/jordanball/Documents/blockle/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/jordanball/Documents/blockle/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/jordanball/Documents/blockle/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/jordanball/Documents/blockle/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/394b161e36a7e93b23ce7453c62ea392/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/394b161e36a7e93b23ce7453c62ea392/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/dfd86a8fe3be2aa2d1d7a6438db0b745/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/dfd86a8fe3be2aa2d1d7a6438db0b745/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/4547617292ad45950b3b15f8265e4da7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/4547617292ad45950b3b15f8265e4da7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/735e1f208258c503c4e844f4f9f7a8de/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/735e1f208258c503c4e844f4f9f7a8de/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/dbd7614aaed83ddbc1cf84227eb130b0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/dbd7614aaed83ddbc1cf84227eb130b0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/490e313032db52bd8fdacc203086f656/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/490e313032db52bd8fdacc203086f656/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/jordanball/.gradle/caches/transforms-3/edba6a2e5ed88b0158b2b677417f731b/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jordanball/.gradle/caches/transforms-3/77ebd42d74c7f80c95c4197b33204d6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jordanball/.gradle/caches/transforms-3/77ebd42d74c7f80c95c4197b33204d6c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/5d1d9f4ecd3592804be4431cbfcf1b1a/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/5d1d9f4ecd3592804be4431cbfcf1b1a/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/5f18bfa99167360e5a41d7aebbf6d4a8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/5f18bfa99167360e5a41d7aebbf6d4a8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/986a53a4a412c03c6cdc8478367f2908/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/986a53a4a412c03c6cdc8478367f2908/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/9779a78400ad639a4a63e7e1f4cc7244/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jordanball/.gradle/caches/transforms-3/9779a78400ad639a4a63e7e1f4cc7244/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/6844f9f771a130ab7f2a4cc70beb3f4e/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jordanball/.gradle/caches/transforms-3/6844f9f771a130ab7f2a4cc70beb3f4e/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jordanball/.gradle/caches/transforms-3/1f633d812454b026cb70a473c2bd67eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jordanball/.gradle/caches/transforms-3/1f633d812454b026cb70a473c2bd67eb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jordanball/.gradle/caches/transforms-3/f085f531436f938f6f80eb8d13402f39/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jordanball/.gradle/caches/transforms-3/f085f531436f938f6f80eb8d13402f39/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/c0bdeb6d9f49c8f38150ed7e96000636/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jordanball/.gradle/caches/transforms-3/c0bdeb6d9f49c8f38150ed7e96000636/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/jordanball/Documents/blockle/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/jordanball/.gradle/caches/transforms-3/554f882029c62231b11e7656e76ee9cb/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
