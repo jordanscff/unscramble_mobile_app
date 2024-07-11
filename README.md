@@ -1,16 +1,10 @@
-# blockle
-
-A new Flutter project.
+# Unscramble
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repo
+Go to android studio or xcode (Code in studio but can run the emulator for ios in xcode) 
+Run flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For iOS - flutter build ios
+And then to deploy a new build, click Product, archive and then you can push it to App Store Connect from here. 
